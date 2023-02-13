@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f914705-af9d-43a1-929e-5254c7553da2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amirov PR24/Amirov PR24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amirov PR24/Praktik67.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amirov PR24/prakt5Amirov/prakt5Amirov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amirov PR24/Амиров ПР24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmirovClassi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmirovPr7/AmirovPr7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmirovPr7/src/Amirovpr7zadanie1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmirovPr7/src/Amirovpr7zadanie2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AmirovPr7/src/Amirovpr7zadanie3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partin A.A/Новая папка/kotlin clas/.idea/kotlin clas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partin A.A/Новая папка/kotlin clas/kotlin clas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partin A.A/Новая папка/new classes/new classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partin A.A/Новая папка/new classes/src/Class.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partin A.A/Новая папка/new classes/src/TrainInfo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partin A.A/Партин Артём/Партин Артём.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Praktik2/Praktik2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Praktik2/src/Ind2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Praktik2/src/ind1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Praktik2/src/ind3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Praktik2/src/praktik2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amirov1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bondyrev kotlin class/bondyrev kotlin class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bondyrev kotlin class/src/book.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bondyrev kotlin class/src/product.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bondyrev kotlin class/src/zad1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practica7/src/main/kotlin/praktt7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/30.01.2023/30.01.2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/30.01.2023/src/Meow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/pract7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/src/Zadanie1n22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/src/Zadanie1n3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/src/Zadanie1n7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/src/Zadanie2n16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/src/Zadanie2n36.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7/src/Zadanie2n6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7zadanie3/pract7zadanie3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/pract7zadanie3/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/untitled/src/Car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shvets/untitled/src/MainCar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/kotlin/meow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/.idea/kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prakt5/prakt5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prakt5/src/zad1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prakt7_kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cinema.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dogs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/appp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/praktika7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitledd/src/dsvdvd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitledd/untitledd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Шумкова пр-21.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Lg6Bjc5tHnPjMQMEe0T8pNKtWK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.Zad12Kt">
+    <configuration name="DogKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogKt" />
+      <module name="praktika8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DogsKt" />
+      <module name="praktika8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zad12Kt" />
+      <module name="praktika8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zad7Kt" />
+      <module name="praktika8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Zad12Kt" />
+        <item itemvalue="Kotlin.Zad7Kt" />
+        <item itemvalue="Kotlin.DogsKt" />
+        <item itemvalue="Kotlin.DogKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f914705-af9d-43a1-929e-5254c7553da2" name="Changes" comment="" />
+      <created>1676280245379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676280245379</updated>
+    </task>
+    <servers />
+  </component>
+</project>
